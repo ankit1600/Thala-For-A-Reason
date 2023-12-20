@@ -1,0 +1,13 @@
+.App{
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100vh;
+}
+.text{
+    border: 2px  red;
+    border-radius: 10px;
+    margin: 15px;
+    background-color: wheat;
+    
+}
+
